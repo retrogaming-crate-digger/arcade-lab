@@ -1,2 +1,5 @@
 *.zip
 node_modules/
+games.json
+.claude/
+StartToDev.md
